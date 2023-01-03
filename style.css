@@ -1,0 +1,35 @@
+
+
+.header{
+    text-align: center;
+    
+}
+.cuerpo{
+    font-size: 30px;
+}
+ul{
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+html{
+    background-color: #c2d7e9;
+}
+ul li{
+    background-color: darkgrey;
+    margin: 10px;
+    font-size: 25px;
+}
+#home{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:underline;
+    font-size: 40px;
+    font-weight: bolder;
+}
+li .link{
+    font-size: 30px;
+}
+img{
+    height: auto;
+    width: 400px;
+}
+
